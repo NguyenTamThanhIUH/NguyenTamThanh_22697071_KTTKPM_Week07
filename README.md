@@ -1,5 +1,5 @@
 - Nguyễn Tâm Thành
 - Khổng Văn Tám
-- Phạm Tăng Hoàng
+- Phạm Tăng Hoàn
 - Phạm Minh Hiếu
 - Bùi Tấn Phát
